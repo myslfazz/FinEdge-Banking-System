@@ -42,7 +42,7 @@ FinEdge Banking System is a Java-based simulation of an online banking platform 
 ---
 
 ## 🗂️ Project Structure
-FinEdge-Banking-System/
+```FinEdge-Banking-System/
 ├── src/
 │ ├── com/finedge/banking/
 │ │ ├── dao/
@@ -60,7 +60,7 @@ FinEdge-Banking-System/
 ├── bin/
 │ └── compiled_classes/
 └── README.md
-
+```
 ---
 
 ## 🧩 How to Run
@@ -68,7 +68,7 @@ FinEdge-Banking-System/
 git clone https://github.com/myslfazz/FinEdge-Banking-System.git
 javac -d bin src/com/finedge/banking/*.java
 java -cp bin com.finedge.banking.Main
-
+```
 ---
 ## 🛠️ Future Enhancements
 
